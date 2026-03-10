@@ -1,0 +1,9 @@
+# Sensible / lokale Daten
+LAST.TXT
+createLeads/
+contact_log.json
+leads_test.csv
+
+# Python
+__pycache__/
+*.pyc
